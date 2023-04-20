@@ -1,3 +1,3 @@
-worker: python3 -m NibiMusic 
+worker: bash start
 
 
