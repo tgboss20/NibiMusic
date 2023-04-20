@@ -225,7 +225,7 @@ async def cbresume(_, query: CallbackQuery):
         await query.answer("❌ ɴᴏᴛʜɪɴɢ ɪs ᴄᴜʀʀᴇɴᴛʟʏ sᴛʀᴇᴀᴍɪɴɢ", show_alert=True)
 
 
-@Abishnoi.on_callback_query(filters.regex("cbstop"))
+@Nirjon.on_callback_query(filters.regex("cbstop"))
 async def cbstop(_, query: CallbackQuery):
     if query.message.sender_chat:
         return await query.answer(
