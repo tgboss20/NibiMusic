@@ -5,7 +5,7 @@ from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup, Message
 
 from NibiMusic import BOT_NAME, BOT_USERNAME, F_OWNER
 from NibiMusic import bot as Nirjon
-from AsuXMusic.config import GROUP_SUPPORT, UPDATES_CHANNEL
+from NibiMusic.config import GROUP_SUPPORT, UPDATES_CHANNEL
 
 START_TIME = datetime.utcnow()
 START_TIME_ISO = START_TIME.replace(microsecond=0).isoformat()
