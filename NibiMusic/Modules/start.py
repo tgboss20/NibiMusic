@@ -83,7 +83,7 @@ async def start(_, message: Message):
                 [
                     InlineKeyboardButton(
                         text="☁ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ☁",
-                        url="https://github.com/Abishnoi69/AsuXMusic",
+                        url="https://github.com/NirjonX69/NibiMusic",
                     )
                 ],
             ]
@@ -101,7 +101,7 @@ async def help(client: Abishnoi, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        " ʀᴇᴘᴏ ⚒️", url=f"https://github.com/Abishnoi69/AsuXMusic"
+                        " ʀᴇᴘᴏ ⚒️", url=f"https://github.com/NirjonX69/NibiMusic"
                     )
                 ]
             ]
