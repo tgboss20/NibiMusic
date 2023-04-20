@@ -30,7 +30,7 @@ async def _human_time_duration(seconds):
 
 
 @Nirjon.on_message(filters.command([f"ping@{BOT_USERNAME}", "ping"]) & filters.group)
-async def start(client: Abishnoi, message: Message):
+async def start(client: Nirjon, message: Message):
     current_time = datetime.utcnow()
     uptime_sec = (current_time - START_TIME).total_seconds()
     uptime = await _human_time_duration(int(uptime_sec))
@@ -93,7 +93,7 @@ async def start(_, message: Message):
 
 
 @Nirjon.on_message(filters.command(["repo", "source"]))
-async def help(client: Abishnoi, message: Message):
+async def help(client: Nirjon, message: Message):
     await message.reply_photo(
         photo=f"https://te.legra.ph/file/56557bd94afbe895ae483.jpg",
         caption=f"""ʜᴇʀᴇ ɪs ᴛʜᴇ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ғᴏʀᴋ ᴀɴᴅ ɢɪᴠᴇ sᴛᴀʀs ✨""",
