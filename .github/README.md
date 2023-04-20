@@ -77,7 +77,7 @@ v<h2 align="center">
 
 : ➻
 
-➥ [⏤͟͞ 𝙉𝙄𝙍𝙅𝙊𝙉] × <a href="https://github.com/NirjonX69/NibiMusic" alt="NirjonX69"> <img src="https://img.shields.io/badge/NirjonX69-90302f?logo=github" /></a>  
+➥ [𝙉𝙄𝙍𝙅𝙊𝙉] × <a href="https://github.com/NirjonX69/NibiMusic" alt="NirjonX69"> <img src="https://img.shields.io/badge/NirjonX69-90302f?logo=github" /></a>  
 
 
 - **ᴛʜᴀɴᴋꜱ ᴛᴏ [ᴛʜᴇ ᴄᴏɴᴛʀɪʙᴜᴛᴏʀs](https://github.com/NirjonX69/NibiMusic/graphs/contributors) ᴡʜᴏ ʜᴇʟᴩᴇᴅ ɪɴ ᴍᴀᴋɪɴɢ ɴɪʙɪ ✘ ᴍᴜsɪᴄ 🖤**
