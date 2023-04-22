@@ -6,15 +6,15 @@ load_dotenv()
 
 admins = {}
 
-SESSION_NAME = getenv("SESSION_NAME", "BQCseIaZHiBMajz6p21kdxKNjbHeZcgwKUb-jLHEjz8KEpsaKfQzn1PKCMyNss4bV615YXWlz2Mp7P__Np1NE360mpnVfn3hz1Snks55Sga1IRuupZRSN2D6UPeSsUtBH-4f8eXGAHSo5M_oMYx42GzCMBZ-xqNVEXxM1glZK4kfM5Oq02x9mX1g6rhA9RT3lZjMoIvKDixifQV_PgoWJY1KBNOHBKaQZJ1axIjCfRHUZk5vj9BrV1wMRp_7LX3SE5CUtw-le8O253JlIvqOs79BboSTAdnEcOIasWWlfmY-Q_IzhRzdw5MpNGkxa2l8Yb7JqqAlDihMadIUXr4fFXMLAAAAAVMMSsYA")
+SESSION_NAME = getenv("SESSION_NAME", "BQBvL-IAFkmQq8XMzLDbl_HpZ53JtVd67trMlNaW1IX8fWgXBkwnQKgL3qw6ipd2-bwdhRAZ1pgfPz_ij8aM0UlZIqsngfhklUWVapnq-eogdyr4zXIzO-6x6bmx8GwYLzV39a0TmqxMZ2ypPJkCoRJPMT85_Q7FXEBv6oE3s5snx69z7ka9y556_StkthbLAS8m_g6On2y8hciU2Ub4W-RsIcMHAY1sQEPItjnITkK-w7F5cO5YERhRpb1GNmucqaekWx6_US66bh8Q1p0PR1OUMPRxnUj2tohsHwWHtXgzTHFzI9lkFIO-9uyj4cEIUeYI5pdZEHZ-0DXX1dpw_4LX3T_5TAAAAABPQVpRAA")
 
-BOT_TOKEN = getenv("BOT_TOKEN", "5656196788:AAFh_GWyY8FO2zxhQ8IrgO_ST1TyMR-lSVM")
-API_ID = int(getenv("API_ID", "8186557"))
-API_HASH = getenv("API_HASH", "efd77b34c69c164ce158037ff5a0d117")
-GROUP_SUPPORT = getenv("GROUP_SUPPORT", "BlackWorldMF")
-UPDATES_CHANNEL = getenv("UPDATES_CHANNEL", "TheBothub")
-OWNER_ID = list(map(int, getenv("OWNER_ID", "6190680150").split()))
-SUDO_USERS = list(map(int, getenv("SUDO_USERS", "6190680150").split()))
+BOT_TOKEN = getenv("BOT_TOKEN", "6249078353:AAFcJLc7BxoTNc53Q36xkpaXA5pYloTDKzI")
+API_ID = int(getenv("API_ID", "7286754"))
+API_HASH = getenv("API_HASH", "ea32d6cdb32f751aca22f05fdea1d3a8")
+GROUP_SUPPORT = getenv("GROUP_SUPPORT", "PrinceVcSupport")
+UPDATES_CHANNEL = getenv("UPDATES_CHANNEL", "")
+OWNER_ID = list(map(int, getenv("OWNER_ID", "1262312971").split()))
+SUDO_USERS = list(map(int, getenv("SUDO_USERS", "1262312971").split()))
 DURATION_LIMIT = int(getenv("DURATION_LIMIT", "120"))
 
 IMG_1 = getenv("IMG_1", "https://te.legra.ph/file/31e9ecee16a46575267a4.jpg")
